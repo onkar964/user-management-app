@@ -1,0 +1,10 @@
+.app {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  .error {
+    color: red;
+  }
+  button {
+    margin: 0 5px;
+  }
